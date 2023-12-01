@@ -1,4 +1,4 @@
-# ROCK Pi S
+# Radxa ROCK S0
 [![Build image for Release channel](https://github.com/radxa-build/rock-s0/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/rock-s0/actions/workflows/build.yml) [![Build image for Test channel](https://github.com/radxa-build/rock-s0/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/rock-s0/actions/workflows/test.yml)
 
 ## What is this?
@@ -16,12 +16,8 @@ Currently 4 flavors are provided:
 
 Please also always use [the latest release](https://github.com/radxa-build/rock-s0/releases/latest) instead of any pre-release / test builds. Those will not be supported.
 
-## Is there any other options?
-
-- [Armbian](https://www.armbian.com/rockpi-s/)
-
 ## Help! Something doesn't work!
 
-For other questions, please first take a look at [our Wiki](https://wiki.radxa.com/RockpiS), which covers the most basic usages.
+For other questions, please first take a look at [our Documentation](https://docs.radxa.com/en/rockpi/s0), which covers the most basic usages.
 
 Should you have any additional questions, please visit [our forum](https://forum.radxa.com/) or [our Discord](https://rock.sh/go), and we are willing to help.
