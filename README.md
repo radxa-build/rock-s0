@@ -18,6 +18,6 @@ Please also always use [the latest release](https://github.com/radxa-build/rock-
 
 ## Help! Something doesn't work!
 
-For other questions, please first take a look at [our Documentation](https://docs.radxa.com/en/rockpi/s0), which covers the most basic usages.
+For other questions, please first take a look at [our Documentation](https://docs.radxa.com/en/rockpi/rocks0), which covers the most basic usages.
 
 Should you have any additional questions, please visit [our forum](https://forum.radxa.com/) or [our Discord](https://rock.sh/go), and we are willing to help.
